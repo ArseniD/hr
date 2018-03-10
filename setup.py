@@ -6,7 +6,7 @@ with open('README.rst', 'r') as f:
 setup(
     name='hr',
     version='0.1.0',
-    description='Python package to manage users on a server based on an “inventory” JSON file.'
+    description='Python package to manage users on a server based on an “inventory” JSON file.',
     long_description=readme,
     author='Arseni Dudko',
     author_email='arseni_dudko@mail.ru',
