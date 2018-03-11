@@ -100,8 +100,3 @@ def test_users_sync(mocker):
             'bob',
         ]),
     ])
-
-
-
-
-
